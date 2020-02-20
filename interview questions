@@ -1,0 +1,9 @@
+1.what is RepositoryPattern
+
+RP is an abstraction layer between data access layer and business layer.
+we can say Repository pattern is an abstraction layer on top of the database.
+
+uses of RP?
+
+The repository interfaces are reusable.
+Database access code is centrally managed in one place.
